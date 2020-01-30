@@ -1,8 +1,5 @@
-<?xml version="1.0"?>
-<entity-facade-xml>
-  <!--  A complete list of all the lowest level NAICS codes.
-        NAICS code are updated every five years.
-        This list was published in 2017    -->
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-facade-xml type="seed">
   <mantle.party.PartyClassification partyClassificationId="NAICS_112111" classificationTypeEnumId="PcltNaicsCode" description="Beef Cattle Ranching and Farming" standardCode="112111"/>
   <mantle.party.PartyClassification partyClassificationId="NAICS_112112" classificationTypeEnumId="PcltNaicsCode" description="Cattle feedlots" standardCode="112112"/>
   <mantle.party.PartyClassification partyClassificationId="NAICS_112120" classificationTypeEnumId="PcltNaicsCode" description="Dairy Cattle and Milk Production" standardCode="112120"/>
