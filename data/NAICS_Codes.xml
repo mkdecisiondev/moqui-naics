@@ -1065,7 +1065,7 @@
   <mantle.party.PartyClassification partyClassificationId="NAICS_927110" classificationTypeEnumId="PcltNaicsCode" description="Space Research and Technology" standardCode="927110"/>
   <mantle.party.PartyClassification partyClassificationId="NAICS_928110" classificationTypeEnumId="PcltNaicsCode" description="National Security" standardCode="928110"/>
   <mantle.party.PartyClassification partyClassificationId="NAICS_928120" classificationTypeEnumId="PcltNaicsCode" description="International Affairs (Consulates, Embassies)" standardCode="928120"/>
-  <mantle.party.PartyClassification partyClassificationId="NAICS_621999" classificationTypeEnumId="PcltNaicsCode" description="Cannabis industry - 1" standardCode="621999"/>
-  <mantle.party.PartyClassification partyClassificationId="NAICS_325411" classificationTypeEnumId="PcltNaicsCode" description="Cannabis industry - 2" standardCode="325411"/>
-  <mantle.party.PartyClassification partyClassificationId="NAICS_424210" classificationTypeEnumId="PcltNaicsCode" description="Cannabis industry - 3" standardCode="424210"/>
+  <mantle.party.PartyClassification partyClassificationId="NAICS_621999" classificationTypeEnumId="PcltNaicsCode" description="All Other Miscellaneous Ambulatory Health Care Services" standardCode="621999"/>
+  <mantle.party.PartyClassification partyClassificationId="NAICS_325411" classificationTypeEnumId="PcltNaicsCode" description="Medicinal and Botanical Manufacturing" standardCode="325411"/>
+  <mantle.party.PartyClassification partyClassificationId="NAICS_424210" classificationTypeEnumId="PcltNaicsCode" description="Drugs and Druggists' Sundries Merchant Wholesalers" standardCode="424210"/>
 </entity-facade-xml>
